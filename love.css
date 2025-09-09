@@ -12,6 +12,7 @@ table, th, tbody{
   border: 1px solid black;
   width: 500;
   text-align: center;
+  margin: auto;
 }
 
 div {
@@ -35,8 +36,4 @@ a:hover {
 
 a:active {
   text-decoration: underline;
-
-}
-table {
-    margin: center;
 }
