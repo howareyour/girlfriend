@@ -35,4 +35,8 @@ a:hover {
 
 a:active {
   text-decoration: underline;
+
+}
+table {
+    margin: center;
 }
